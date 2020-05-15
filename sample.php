@@ -1,4 +1,3 @@
 <?php 
-echo HEllo
-;
+echo HEllo;
 ?>
